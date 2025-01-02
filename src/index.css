@@ -97,3 +97,19 @@
       transform: rotate(calc(var(--rotation) * 1deg)) translate(0, calc(var(--translation) * 1.5%));
    }
 }
+
+
+
+@media only screen and (max-width:728px) {
+
+   .Random{
+      width:400px;
+   }
+
+   .Tag{
+      width:400px;
+   }
+   .app{
+      height: auto;
+   }
+}

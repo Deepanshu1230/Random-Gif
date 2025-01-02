@@ -32,7 +32,7 @@ const Random = () => {
         
     }
   return (
-    <div className='w-1/2 pl-3 pr-3 bg-pink-400 rounded-lg border border-white gap-y-5 flex flex-col items-center justify-center'>
+    <div className='Random w-1/2 pl-3 pr-3 bg-pink-400 rounded-lg border border-white gap-y-5 flex flex-col items-center justify-center'>
         <h1 className='mt-[15px] text-2xl underline font-bold uppercase mb-5 '>A Random Gif</h1>
         
 

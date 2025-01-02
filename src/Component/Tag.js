@@ -39,7 +39,7 @@ const Tag = () => {
     }  
 
  return (
-    <div className='w-1/2  bg-blue-400 pl-3 pr-3 rounded-lg border border-white gap-y-5 flex flex-col items-center justify-center'>
+    <div className='Tag w-1/2  bg-blue-400 pl-3 pr-3 rounded-lg border border-white gap-y-5 flex flex-col items-center justify-center'>
         <h1 className='mt-[15px] text-2xl underline font-bold uppercase mb-5 '>Random {tag} Gif</h1>
         
 
